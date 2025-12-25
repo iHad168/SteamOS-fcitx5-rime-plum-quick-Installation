@@ -1,9 +1,9 @@
-# 在flatpak安裝fcitx同rime套件
+# 在Flatpak安裝Fcitx同Rime套件
 flatpak install org.fcitx.Fcitx5
 
 flatpak install org.fcitx.Fcitx5.Addon.Rime
 
-# 選用 rime
+# 選用 Rime
 <img width="973" height="759" alt="image" src="https://github.com/user-attachments/assets/c724d183-bc30-4698-a070-c1a6874f59c8" />
 
 # 設Fcitx自動啟動
@@ -21,7 +21,7 @@ SDL_IM_MODULE=ibus
 GLFW_IM_MODULE=ibus
 ```
 
-# 安裝 plum
+# 安裝 Plum
 curl -fsSL https://raw.githubusercontent.com/rime/plum/master/rime-install | bash -s -- :all
 
 
