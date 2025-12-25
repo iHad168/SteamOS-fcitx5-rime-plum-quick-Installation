@@ -60,5 +60,7 @@ PreeditInApplication=False
 
 # 參考
 [https://www.bilibili.com/opus/1139601518269300768](https://www.bilibili.com/opus/1139601518269300768)
+
 [https://forum.gamer.com.tw/C.php?bsn=60599&snA=40156](https://forum.gamer.com.tw/C.php?bsn=60599&snA=40156)
+
 [https://wiki.archlinux.org/title/Fcitx5](https://wiki.archlinux.org/title/Fcitx5)
