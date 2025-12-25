@@ -4,6 +4,8 @@ flatpak install org.fcitx.Fcitx5
 flatpak install org.fcitx.Fcitx5.Addon.Rime
 
 # 設Fcitx自動啟動
+mkdir -p ~/.config/autostart/
+
 cp /home/.steamos/offload/var/lib/flatpak/exports/share/applications/org.fcitx.Fcitx5.desktop ~/.config/autostart/
 
 # 設環境變量
