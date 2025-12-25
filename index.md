@@ -38,7 +38,11 @@ key_binder:
 menu:
   page_size: 9  #顯示9行 選字項
 ```
-
+nano ~/.var/app/org.fcitx.Fcitx5/config/fcitx5/conf/classicui.conf
+```
+# vertical candidate 垂直候選字列表
+Vertical Candidate List=True
+```
 
 # 參考
 https://www.bilibili.com/opus/1139601518269300768
