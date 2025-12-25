@@ -1,5 +1,6 @@
 # 在Flatpak安裝Fcitx同Rime套件
 flatpak install org.fcitx.Fcitx5
+
 flatpak install org.fcitx.Fcitx5.Addon.Rime
 
 # 選用 Rime
